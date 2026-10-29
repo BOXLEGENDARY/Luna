@@ -1,4 +1,4 @@
 # free lua/luau obfusctor join
-[discord](https://discord.gg/trq7jHA5pT)
+[discord](https://discord.gg/eYeZZTtjrU)
 
 # Open Issues to report Luna problem
